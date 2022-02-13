@@ -1,0 +1,73 @@
+body {
+    background-color: rgb(228, 188, 129);
+}
+
+.container {
+    width: 520px;
+    margin: 54px auto;
+    padding-bottom: 50px;
+    padding-top: 50px;
+    background-color: rgb(141, 163, 163);
+    text-align: center;
+    justify-content: center;
+    background-color: rgb(5, 76, 82);
+}
+
+.form {
+    width: 90%;
+    background-color: rgb(9, 161, 128);
+    margin: auto;
+    padding-top: 40px;
+}
+
+h1 {
+    color: White;
+}
+
+.todo {
+    display: flex;
+    width: 90%;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+    padding-bottom: 50px;
+}
+
+#text {
+    width: 70%;
+    height: 25px;
+}
+
+.add {
+    width: 25%;
+    height: 30.5px;
+    font-size: medium;
+    background: #d9d9d9;
+    border: #888;
+}
+
+.todo-list {
+    background: rgb(233, 223, 223);
+    margin: 0 auto;
+    width: 90%;
+}
+
+.todo-item {
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    height: 30px;
+    border: 1px solid grey;
+}
+
+.txt {
+    margin: 5px auto;
+    width: 70%;
+    color: aliceblue;
+    font-size: medium;
+}
+
+.delete {
+    width: 100%;
+    background-color: rgb(9, 161, 128);
+}
